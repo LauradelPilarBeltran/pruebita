@@ -1,0 +1,65 @@
+[
+    {
+        "id" : 1,
+        "nombre": "Remera M.",
+        "precio": 9000,
+        "categoria": "Ropa",
+        "imagen": "shirt1.jpg"
+    },
+    {
+        "id" : 2,
+        "nombre": "Uno Disney",
+        "precio": 3000,
+        "categoria": "Juegos",
+        "imagen": "Game3.jpg"
+    },
+    {
+        "id" : 3,
+        "nombre": "Medias D.",
+        "precio": 3000,
+        "categoria": "Ropa",
+        "imagen": "socks3.jpg"
+    },
+    {
+        "id" : 4,
+        "nombre": "Monopoly",
+        "precio": 5000,
+        "categoria": "Juegos",
+        "imagen": "Game4.jpg"
+    },
+    {
+        "id" : 5,
+        "nombre": "Medias M.",
+        "precio": 3000,
+        "categoria": "Ropa",
+        "imagen": "socks1.jpg"
+    },
+    {
+        "id" : 6,
+        "nombre": "Taza Minnie",
+        "precio": 7000,
+        "categoria": "Tazas",
+        "imagen": "cup1.jpg"
+    },
+    {
+        "id" : 7,
+        "nombre": "Taza Chesire",
+        "precio": 7000,
+        "categoria": "Tazas",
+        "imagen": "cup2.jpg"
+    },
+    {
+        "id" : 8,
+        "nombre": "Taza Dumbo",
+        "precio": 8000,
+        "categoria": "Tazas",
+        "imagen": "cup3.jpg"
+    },
+    {
+        "id" : 9,
+        "nombre": "Quiz Disney",
+        "precio": 6000,
+        "categoria": "Juegos",
+        "imagen": "Game6.jpg"
+    }
+]
